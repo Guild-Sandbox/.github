@@ -1,7 +1,7 @@
 # guild-sandbox — GitHub App & OAuth App Policy
 
 **Owner:** InfoSec (Luther / Bhargav)  
-**Last reviewed:** [DATE]  
+**Last reviewed:** 06/17/2026
 **Status:** Active
 
 ---
